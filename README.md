@@ -11,4 +11,5 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python3](https://img.shields.io/badge/-Python3-181717?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-180019?style=flat-square&logo=flask)
 ![PHP7](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)

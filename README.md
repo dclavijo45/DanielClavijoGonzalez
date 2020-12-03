@@ -13,3 +13,4 @@
 ![Python3](https://img.shields.io/badge/-Python3-181717?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-180019?style=flat-square&logo=flask)
 ![PHP7](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)
+![C#](https://img.shields.io/badge/-C%20sharp-B985D0?style=flat-square&logo=c#)

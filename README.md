@@ -14,4 +14,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-180019?style=flat-square&logo=flask)
 ![PHP7](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/-C%20Sharp-B985D0?style=flat-square&logo=c#)
-![Angular](https://img.shields.io/badge/-Angular%2010-660000?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-660000?style=flat-square&logo=angular)

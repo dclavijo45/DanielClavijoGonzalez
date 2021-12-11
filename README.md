@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python3](https://img.shields.io/badge/-Python3-181717?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-180019?style=flat-square&logo=flask)
 ![PHP](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-gray?style=flat-square&logo=laravel)

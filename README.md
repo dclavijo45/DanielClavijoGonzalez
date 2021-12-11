@@ -13,7 +13,7 @@
 ![Python3](https://img.shields.io/badge/-Python3-181717?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-180019?style=flat-square&logo=flask)
 ![PHP](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Ionic-gray?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-gray?style=flat-square&logo=laravel)
 ![C#](https://img.shields.io/badge/-C%23-B985D0?style=flat-square&logo=c#)
 ![Java](https://img.shields.io/badge/-Java-888188?style=flat-square&logo=java)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)

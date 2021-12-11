@@ -15,4 +15,5 @@
 ![PHP](https://img.shields.io/badge/-PHP7-181717?style=flat-square&logo=php)
 ![C#](https://img.shields.io/badge/-C%23-B985D0?style=flat-square&logo=c#)
 ![Java](https://img.shields.io/badge/-Java-888188?style=flat-square&logo=java)
+![Ionic](https://img.shields.io/badge/-Ionic-888199?style=flat-square&logo=ionic)
 

@@ -18,3 +18,6 @@
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-888199?style=flat-square&logo=ionic)
+![Springboot](https://img.shields.io/badge/-Springboot-black?style=flat-square&logo=springboot)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
